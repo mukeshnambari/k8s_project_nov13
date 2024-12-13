@@ -27,5 +27,5 @@ app: hello
 spec:
 containers:
 - name: hello
-image: alvinselva/alvink8simage:latest
+image: mukeshyadav833/alvink8simage:latest
 imagePullPolicy: Always
